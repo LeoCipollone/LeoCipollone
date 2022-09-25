@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux, TypeScript and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://leocipollone.github.io/portfolio/](https://leocipollone.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://leocipollone.dev.ar](https://leocipollone.dev.ar)
 
 - 📫 How to reach me **leocipollonedev@gmail.com**
 

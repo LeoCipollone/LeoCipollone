@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Leo Cipollone</h1>
 <h3 align="center">A frontend developer from Argentina!</h3>
 
-- 🔭 I’m currently working on [TuPeli](https://github.com/LeoCipollone/movies)
+- 🔭 I’m currently working on **[Cooperamania](https://cooperamania.vercel.app/#/)**
+<p align="center">
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AJc5JmTjUAGOjIM1YZ54lxBH8gQjfUiafPJuv-rjJRWlGw6muFMLi8H1FmTsEzIpVpGx-dGy7h_-bTmpZ6jM7UyOuWL8NzbRIw=w1280-h632" width="523" height="316"/>
+</p>
 
-- 🌱 I’m currently learning **Redux, TypeScript and Next.js**
+- 🌱 I’m currently learning **TypeScript and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://leocipollone.dev.ar](https://leocipollone.dev.ar)
+- 👨‍💻 All of my projects are available at **[https://leocipollone.dev.ar](https://leocipollone.dev.ar)**
 
 - 📫 How to reach me **leocipollonedev@gmail.com**
 
